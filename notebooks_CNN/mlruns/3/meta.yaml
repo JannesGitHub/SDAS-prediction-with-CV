@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/Kleinau/PB-Arbeit/notebooks/mlruns/3
+experiment_id: '3'
+lifecycle_stage: active
+name: TestExperiment4

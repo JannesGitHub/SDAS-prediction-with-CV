@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/Kleinau/PB-Arbeit/notebooks/mlruns/5
+experiment_id: '5'
+lifecycle_stage: active
+name: HYBRID_SDAS_Prediciton

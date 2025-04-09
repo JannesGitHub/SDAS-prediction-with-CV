@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter Notebooks Checkpoints
+.ipynb_checkpoints/
+
+# Daten & Modelle
+*.csv
+*.tsv
+*.npy
+*.h5
+*.pt
+*.pkl
+*.joblib
+*.zip
+*.jpg
+*.png
+
+# Umgebungen
+.env
+venv/
+.venv/
+
+# Sonstiges
+.DS_Store
